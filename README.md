@@ -1,1 +1,1 @@
-# newshorts
+# NewShorts - Article Summarizer
